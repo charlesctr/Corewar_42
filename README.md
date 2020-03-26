@@ -23,8 +23,6 @@
 * The game ends when all the processes are dead. The winner is the last player reported to be “alive”.   </p>
 
 
-### 🏠 [Homepage](* The game ends when all the processes are dead. The winner is the last player reported to be “alive”.  )
-
 ## Install
 
 ```sh
