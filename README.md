@@ -44,19 +44,19 @@ make
 
 ## Authors
 
-👤 **Charles Ctr**
+👤 **Charles**
 
 * GitHub: [@charlesctr](https://github.com/charlesctr)
 
-👤 **Flhember**
+👤 **Florian**
 
 * GitHub: [@therrythecreator](https://github.com/therrythecreator)
 
-👤 **Jleblond**
+👤 **Jie**
 
 * GitHub: [@touilleWoman](https://github.com/touilleWoman)
 
-👤 **Naali**
+👤 **Nabih**
 
 * GitHub: [@Bainhail](https://github.com/Bainhail)
 
