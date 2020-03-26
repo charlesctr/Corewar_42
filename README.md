@@ -32,24 +32,39 @@ make
 ## Usage
 
 ```sh
-npm run start
+./corewar [-dump <nb> -n <nb>] file1.cor file2.cor ...
+	-dump <nb> : dump memory in hexadecimal after <nb> cycles then quit
+	-n : set id of next player. Player_id must > 0 and <= player_nb
+	-v : show operations and cycle
+	-p : show movement of cursor```
+  
+  ```sh
+./asm [-v=verbose] [champion.s]
 ```
 
 ## Run tests
 
 ```sh
-npm run test
+./script_find_all.sh [path/to/directory/to/.s]
 ```
 
-## Author
+## Authors
 
-👤 **Charles Ctr, Flhember, Jleblond, Naali**
+👤 **Charles Ctr**
 
 * GitHub: [@charlesctr](https://github.com/charlesctr)
 
-## 🤝 Contributing
+👤 **Flhember**
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+* GitHub: [@therrythecreator](https://github.com/therrythecreator)
+
+👤 **Jleblond**
+
+* GitHub: [@touilleWoman](https://github.com/touilleWoman)
+
+👤 **Naali**
+
+* GitHub: [@Bainhail](https://github.com/Bainhail)
 
 ## Show your support
 
@@ -57,7 +72,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Charles Ctr, Flhember, Jleblond, Naali](https://github.com/charlesctr).<br />
+Copyright © 2020 [Charles Ctr] [Flhember] [Jleblond] [Naali](https://github.com/charlesctr).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
