@@ -4,7 +4,6 @@
   <a href="https://github.com/charlesctr/Corewar_42/subject.pdf" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
 </p>
 
 <h1>What is Corewar?</h1> 
