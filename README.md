@@ -31,9 +31,8 @@ make
 	-dump <nb> : dump memory in hexadecimal after <nb> cycles then quit
 	-n : set id of next player. Player_id must > 0 and <= player_nb
 	-v : show operations and cycle
-	-p : show movement of cursor```
+	-p : show movement of cursor
   
-  ```sh
 ./asm [-v=verbose] [champion.s]
 ```
 
