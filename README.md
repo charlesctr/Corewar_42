@@ -60,9 +60,6 @@ make
 
 * GitHub: [@Bainhail](https://github.com/Bainhail)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
