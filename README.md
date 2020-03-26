@@ -25,6 +25,10 @@ make
 
 ## Usage
 
+![alt text](https://github.com/charlesctr/Corewar_42/blob/master/corewar_launch.png)
+
+
+
 ```sh
 ./corewar [-dump <nb> -n <nb>] file1.cor file2.cor ...
 	-dump <nb> : dump memory in hexadecimal after <nb> cycles then quit
